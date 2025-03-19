@@ -2,6 +2,7 @@ Hi 👋 <br />
 I am Soup <br />
 Sometimes i make small python things
 
+You know what they say:
 "it works on *my* machine"
 
 Links: <br />
