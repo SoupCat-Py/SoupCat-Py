@@ -2,8 +2,8 @@ Hi 👋 <br />
 I am Soup <br />
 Sometimes i make small python things
 
-You know what they say:
-"it works on *my* machine"
+If you see a `.DS_Store` file, you can get rid of it. <br />
+It's just a macOS thing and is useless on other operating systems.
 
 Links: <br />
 ∟[Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=soupcat.py@gmail.com) <br />
