@@ -4,7 +4,6 @@ I am Soup <br />
 **I know these languages:** <br />
 ↳ Python <br />
 ↳ JavaScript <br />
-  ↳ React
 ↳ HTML <br />
 ↳ CSS <br />
 
