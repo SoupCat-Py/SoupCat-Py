@@ -9,7 +9,7 @@ I am Soup <br />
 ↳ <img src="https://img.shields.io/badge/-JavaScript-F1DC55?logo=javascript&logoColor=black"/><br />
 #### Stuff I'm Learning:
 ↳ <img src="https://img.shields.io/badge/-TypeScript-3A7DC8?logo=typescript&logoColor=white"/><br />
-↳ <img src="https://img.shields.io/badge/-React-58C4DC?logo=react&logoColor=white"/><br />
+↳ <img src="https://img.shields.io/badge/-React.js-58C4DC?logo=react&logoColor=white"/><br />
 ↳ <img src="https://img.shields.io/badge/-Vite-A55CFF?logo=vite&logoColor=white"/><br />
 ↳ <img src="https://img.shields.io/badge/-Bootstrap-7921F7?logo=bootstrap&logoColor=white"/>
 
