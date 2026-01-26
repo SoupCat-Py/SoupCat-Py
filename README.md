@@ -1,17 +1,11 @@
 Hi 👋 <br />
 I am Soup <br />
+
 ---
 
-#### Stuff I Know:
-↳ <img src="https://img.shields.io/badge/-Python-3771A1?logo=python&logoColor=white"/><br />
-↳ <img src="https://img.shields.io/badge/-HTML-E5532F?logo=html5&logoColor=white"/><br />
-↳ <img src="https://img.shields.io/badge/-CSS-2E54E5?logo=css&logoColor=white"/><br />
-↳ <img src="https://img.shields.io/badge/-JavaScript-F1DC55?logo=javascript&logoColor=black"/><br />
-#### Stuff I'm Learning:
-↳ <img src="https://img.shields.io/badge/-TypeScript-3A7DC8?logo=typescript&logoColor=white"/><br />
-↳ <img src="https://img.shields.io/badge/-React.js-58C4DC?logo=react&logoColor=white"/><br />
-↳ <img src="https://img.shields.io/badge/-Vite-A55CFF?logo=vite&logoColor=white"/><br />
-↳ <img src="https://img.shields.io/badge/-Bootstrap-7921F7?logo=bootstrap&logoColor=white"/>
+I do some frontend stuff and used to make python stuff with CustomTkinter<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=soupcat-py&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 **NOTE:** <br />
