@@ -5,7 +5,7 @@ I am Soup <br />
 
 I do some frontend stuff and used to make python stuff with CustomTkinter<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=soupcat-py&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![Looks like this embed isn't loading...](https://github-readme-stats.vercel.app/api/top-langs/?username=soupcat-py&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 **NOTE:** <br />
