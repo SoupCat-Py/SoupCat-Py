@@ -10,4 +10,4 @@ I do some frontend stuff and used to make python apps with CustomTkinter<br/>
 ---
 **NOTE:** <br />
 If you see a `.DS_Store` file or anything that starts with `._`, you can get rid of it. <br />
-It's just a macOS thing and is useless on other operating systems.
+It's just a macOS metadata thing and is useless on other operating systems.
